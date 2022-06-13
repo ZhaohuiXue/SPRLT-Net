@@ -30,7 +30,7 @@
 %   Cite:
 %   --------------------------------------
 %
-%   [1] Z. Xue, Q. Xu and M. Zhang, "Local Transformer with Spatial Partition Restore for Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2022.3174135.
+%   [1] Z. Xue, Q. Xu, M. Zhang. Local Transformer With Spatial Partition Restore for Hyperspectral Image Classification[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022, 15: 4307-4325.
 %
 %   --------------------------------------
 %   Copyright & Disclaimer
