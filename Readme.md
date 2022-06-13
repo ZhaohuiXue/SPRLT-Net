@@ -38,4 +38,11 @@
 %
 %   The programs contained in this package are granted free of charge for
 %   research and education purposes only. 
+%
+%   Copyright (c) 2022 by Zhaohui Xue & Qi Xu
+%   zhaohui.xue@hhu.edu.cn & hhuxuqi@163.com
+%   --------------------------------------
+%   For full package:
+%   --------------------------------------
+%   https://sites.google.com/site/zhaohuixuers/
 ```
