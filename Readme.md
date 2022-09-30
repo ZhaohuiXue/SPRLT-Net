@@ -1,8 +1,8 @@
 ```
 %
-% SPRLT: Local Transformer With Spatial Partition Restore for Hyperspectral Image Classification.
+% SPRLT-Net: Local Transformer With Spatial Partition Restore Network for Hyperspectral Image Classification.
 %
-%    This demo shows the SPRLT model for hyperspectral image classification.
+%    This demo shows the SPRLT-Net model for hyperspectral image classification.
 %
 %    main.py ....... A main script executing experiments upon IP, PU, and HU data sets.
 %    data.py ....... A script implementing various data manipulation functions.
