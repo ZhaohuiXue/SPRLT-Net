@@ -7,7 +7,7 @@
 %    main.py ....... A main script executing experiments upon IP, PU, and HU data sets.
 %    data.py ....... A script implementing various data manipulation functions.
 %    util.py ....... A script implementing the sample selection function and etc.
-%    sprltNet.py ....... A script implementing the sprlt models.
+%    sprltNet.pyd ....... A script implementing the sprlt models.
 %    train_test.py ....... A script implementing the training function and test function etc.
 %	 visualization.py ....... A script implementing the visualization for model.
 
@@ -18,7 +18,7 @@
 %   --------------------------------------
 %   Note: Required core python libraries
 %   --------------------------------------
-%   1. python 3.6.5
+%   1. python 3.7
 %   2. pytorch >= 1.7.0
 %   3. einops
 %   4. scipy = 1.5.4
